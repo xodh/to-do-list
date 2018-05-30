@@ -6,7 +6,7 @@ we develop for who can use console
 **but if you can't use console don't worry we prepared --help**
 
 # how to download
-first you nead python  
+first you nead python(version>=3.6)    
 second you have yo download pip **(python install pip)**  
 third jusy download! **(python install potatotodo)**  
 
