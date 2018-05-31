@@ -27,8 +27,8 @@ python potato.exe --f =       Print your finished plans
 
 ## Please refer to seyup.py
 
-### If you need more information please comment here or send e-mail [kto6278@naver.com] here !
+### If you need more information please comment here !
 
 
 ### Developers
-Hyunjun Lee[https://github.com/Alpacadabra/to-do-list] , Kim Yejun[https://github.com/kyj0701/to-do-list] , Lee je shin[https://github.com/BeautifulTommorow/to-do-list] , lee hye jin[https://github.com/bean3/to-do-list] , Kim tae O[https://github.com/xodh/to-do-list]
+[Hyunjun Lee](https://github.com/Alpacadabra/to-do-list) , [Kim Yejun](https://github.com/kyj0701/to-do-list) , [Lee je shin](https://github.com/BeautifulTommorow/to-do-list) , [lee hye jin](https://github.com/bean3/to-do-list) , [Kim tae O](https://github.com/xodh/to-do-list)
