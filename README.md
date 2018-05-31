@@ -1,4 +1,4 @@
-### Hello, we are potato team!
+# Hello, we are potato team!
 
 ## Introduce
 we develop **potatotodo** (this is todo_list !)  
@@ -25,9 +25,7 @@ python potato.exe --cat =     Print the plans for category which you will selcet
 python potato.exe --uf =      Print your unfinished plans  
 python potato.exe --f =       Print your finished plans  
 
-## Please refer to seyup.py
-
-### If you need more information please comment here !
+### If you need more information please comment here or refer to setup.py !
 
 
 ### Developers
